@@ -4,11 +4,6 @@ You can either evaluate optimizers by training from scratch, or by directly usin
 
 ---
 
-## Preparing Dataset
-You can get dataset from ~
-
----
-
 ## Run Training
 As pytorch is installed, you can train re-id module by running:
 
