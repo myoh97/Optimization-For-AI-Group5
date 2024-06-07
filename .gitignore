@@ -1,0 +1,8 @@
+logs/
+logs*/
+tsne.py
+plot.py
+.vscode/
+pretrained/
+Thumbs.db
+*.png
