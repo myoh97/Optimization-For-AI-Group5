@@ -11,6 +11,8 @@ As pytorch is installed and got dataset, you can train re-id module by running:
 ---
 
 # Utilize Train History
+You can also test our code without training from scratch.
+
 Unzip history.zip file.
 This will give history for loss while each training.
 
