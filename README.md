@@ -12,6 +12,7 @@ As pytorch is installed and got dataset, you can train re-id module by running:
 
 # Utilize Train History
 You can also test our code without training from scratch.
+
 Download our history.zip file from
 > https://unistackr0-my.sharepoint.com/personal/mmyy2513_unist_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmmyy2513%5Funist%5Fac%5Fkr%2FDocuments%2Fhistory%2Ezip&parent=%2Fpersonal%2Fmmyy2513%5Funist%5Fac%5Fkr%2FDocuments&ga=1
 
