@@ -25,6 +25,7 @@ Put file in format of ~
 If you want to draw results for every optimizers, then run
 
 > python draw.py
+
 If you want to draw results for comparing the effect of batch size, then run
 
 > python draw_batchsize.py
