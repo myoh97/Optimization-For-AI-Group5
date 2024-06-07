@@ -20,7 +20,7 @@ Unzip history.zip file.
 This will give history for loss while each training.
 
 ---
-# Visuaize Learning Curves
+# Visualize Learning Curves
 If you want to draw results for every optimizers, then run
 
 > python draw.py
