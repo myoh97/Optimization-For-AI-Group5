@@ -16,6 +16,7 @@ As pytorch is installed, you can train re-id module by running:
 Download our history .pth file from ~
 
 Put file in format of ~
+
 ---
 # Visuaize Learning Curves
 If you want to draw results for every optimizers, then run
