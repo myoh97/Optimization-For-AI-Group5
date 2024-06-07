@@ -1,7 +1,9 @@
+You can either evaluate optimizers by training from scratch, or by directly using our train history.
 # Environment
 We tested our code on pytorch==2.0.0 and cudatoolkit==11.7
 
-You can either evaluate optimizers by training from scratch, or by directly using our train history.
+---
+
 # Train Model from Scratch
 As pytorch is installed and got dataset, you can train re-id module by running:
 
